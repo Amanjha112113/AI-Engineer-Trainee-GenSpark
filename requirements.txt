@@ -1,0 +1,22 @@
+azure-ai-projects 
+azure-identity 
+openai 
+azure-ai-inference 
+azure-search-documents 
+azure-ai-evaluation 
+azure-monitor-opentelemetry
+# azure-ai-resources-agent
+python-docx  # For processing .docx files
+python-dotenv  # For loading environment variables
+azure-ai-inference[prompts]
+pandas
+opentelemetry-api
+pandas
+PyPDF2
+docx2txt
+moviepy
+pytube
+groq
+beautifulsoup4
+streamlit_option_menu
+youtube-transcript-api
