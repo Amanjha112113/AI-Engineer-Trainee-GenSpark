@@ -1,7 +1,7 @@
 # AzureAI  🧠
 
-![Main Interface](./Images/main_interface.png)
-![Chat Demo](./Images/chat_demo.png)
+![Main Interface](./Images/document_manager.png)
+![Chat Demo](./Images/architecture_diagram.png)
 
 AzureAI is an innovative AI-powered agent that transforms how users interact with various content types. Our solution enables seamless conversations with documents, videos, web content, and more through an intuitive chat interface, leveraging Azure AI services to deliver contextually accurate responses grounded in uploaded content.
 
